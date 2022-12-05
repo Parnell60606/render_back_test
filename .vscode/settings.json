@@ -1,0 +1,4 @@
+{
+    // 啟用 eslint 作為格式化程序
+    "eslint.format.enable": true
+}
